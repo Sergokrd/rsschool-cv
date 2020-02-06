@@ -30,3 +30,4 @@ Male, 28 years, born on 11 November 1991
  * Academy of marketing and social information technologies. Applied Informatics in Economics.
  * I take courses: udemy, rs.school.
 1. Knowledge of English at the level of reading and translating with a dictionary. At the moment, I am taking courses to improve my Knowledge of the English language intermediate b1-b2.
+cool
