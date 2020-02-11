@@ -1,0 +1,58 @@
+html {
+    width: 100%;
+max-width: 1024px; 
+}
+
+h1 {
+    color: black; 
+    text-align: center; 
+    border: 20px red; 
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.fig {
+    width: 52%;   
+    height: auto;  
+    margin-right: 20px; 
+    }
+.one {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    }    
+blockquote {
+        margin: 0; 
+        background: white; 
+        border-top: 5px solid #EAF9F9; 
+        border-bottom: 5px solid #EAF9F9;           
+        color: #3A3C55;     
+        position: relative;
+        font-family: Arial, Helvetica, sans-serif;  
+        font-weight: 300;
+}
+.about-me {
+    width: 100%;        
+max-width: 1024px;    
+    padding: 10px;    
+    border:  5px;    
+    margin: 5px;    
+}
+.skills {
+    width: 100%;
+max-width: 1024px;    
+    padding: 10px;    
+    border:  5px;    
+    margin: 5px;    
+}
+.more-information {
+    width: 100%;
+max-width: 1024px;   
+    padding: 10px;    
+    border:  5px;    
+    margin: 5px;    
+}
+.code-example {
+    width: 100%;
+max-width: 1024px;    
+    padding: 10px;    
+    border:  5px;    
+    margin: 5px;    
+}
