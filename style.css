@@ -1,58 +1,58 @@
 html {
-    width: 100%;/* ширина контента, т.е. содержимого блока; */
-max-width: 1024px; /* ширина контента, т.е. содержимого блока; */
+    width: 100%;
+max-width: 1024px; 
 }
 
 h1 {
-    color: black; /* цвет*/
+    color: black; 
     text-align: center; 
-    border: 20px red; /*толщина границ*/
-    font-family: Arial, Helvetica, sans-serif; /*шрифт*/
+    border: 20px red; 
+    font-family: Arial, Helvetica, sans-serif; 
 }
 .fig {
-    width: 52%;   /* ширина контента, т.е. содержимого блока; */
-    height: auto;  /*высота*/
-    margin-right: 20px; /*отступ с права*/
+    width: 52%;   
+    height: auto;  
+    margin-right: 20px; 
     }
 .one {
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     }    
 blockquote {
-        margin: 0; /*отступ*/
-        background: white; /* фон*/
-        border-top: 5px solid #EAF9F9; /*границы*/
-        border-bottom: 5px solid #EAF9F9; /*границы*/
-        color: #3A3C55; /* цыет*/
+        margin: 0; 
+        background: white; 
+        border-top: 5px solid #EAF9F9; 
+        border-bottom: 5px solid #EAF9F9;           
+        color: #3A3C55;     
         position: relative;
-        font-family: Arial, Helvetica, sans-serif; /*шрифт*/
+        font-family: Arial, Helvetica, sans-serif;  
         font-weight: 300;
 }
 .about-me {
-    width: 100%;       /* ширина контента, т.е. содержимого блока; */
-max-width: 1024px;    /* ширина контента, т.е. содержимого блока; */
-    padding: 10px;    /*— поле слева и справа от контента;*/
-    border:  5px;    /*— толщина границы слева и справа;*/
-    margin: 5px;    /*— отступ слева и справа.*/
+    width: 100%;        
+max-width: 1024px;    
+    padding: 10px;    
+    border:  5px;    
+    margin: 5px;    
 }
 .skills {
     width: 100%;
-max-width: 1024px;    /* ширина контента, т.е. содержимого блока; */
-    padding: 10px;    /*— поле слева и справа от контента;*/
-    border:  5px;    /*— толщина границы слева и справа;*/
-    margin: 5px;    /*— отступ слева и справа.*/
+max-width: 1024px;    
+    padding: 10px;    
+    border:  5px;    
+    margin: 5px;    
 }
 .more-information {
     width: 100%;
-max-width: 1024px;   /* ширина контента, т.е. содержимого блока; */
-    padding: 10px;    /*— поле слева и справа от контента;*/
-    border:  5px;    /*— толщина границы слева и справа;*/
-    margin: 5px;    /*— отступ слева и справа.*/
+max-width: 1024px;   
+    padding: 10px;    
+    border:  5px;    
+    margin: 5px;    
 }
 .code-example {
     width: 100%;
-max-width: 1024px;    /* ширина контента, т.е. содержимого блока; */
-    padding: 10px;    /*— поле слева и справа от контента;*/
-    border:  5px;    /*— толщина границы слева и справа;*/
-    margin: 5px;    /*— отступ слева и справа.*/
+max-width: 1024px;    
+    padding: 10px;    
+    border:  5px;    
+    margin: 5px;    
 }
